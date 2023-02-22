@@ -1,16 +1,18 @@
 ### 👋 Hi, I’m @nick-jhlee (Junghyun "Nick" Lee)
 
-I'm currently a MSc candidate at the Graduate School of AI at KAIST, jointly supervised by [Se-Young Yun](https://fbsqkd.github.io/) and [Chulhee Yun](https://chulheeyun.github.io/).
+I'm currently a PhD candidate at the Graduate School of AI at KAIST, jointly supervised by [Se-Young Yun](https://fbsqkd.github.io/) and [Chulhee Yun](https://chulheeyun.github.io/).
 
 
 👀 My interests:
 - RL Theory, Bandits, Online Learning
-- Deep Learning Theory
+- Distributed Algorithms, Networks
+- Machine/Deep Learning Theory
 - Algorithmic Fairness
-- Statistics, Optimization
-- Probabilistic ML/DL
+- High-dimensional Statistics, Probability Theory
+- Optimization Theory
+- Probabilistic(Bayesian) Machine/Deep Learning
 - GNN, Graphs
-- Applied Mathematics
+- Applied mathematics in general (e.g., mathematical biology)
 - ML/DL for Natural Sciences
 - ... and more!
 
