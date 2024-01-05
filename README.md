@@ -18,7 +18,7 @@ I'm currently a PhD candidate at the Graduate School of AI at KAIST, jointly sup
 
 💞️ I’m always open to collaboration! Just reach me at
 - Google Scholar: https://scholar.google.com/citations?user=sYtSnnQAAAAJ&hl=en
-- Personal website: https://nick-jhlee.netlify.app/
+- Personal website: https://nick-jhlee.github.io/
 - LinkedIn: https://www.linkedin.com/in/junghyun-nick-lee-89799a197/
 - Twitter: https://twitter.com/nick_jhlee
 
