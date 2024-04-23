@@ -5,14 +5,14 @@ I'm currently a PhD candidate at the Graduate School of AI at KAIST, jointly sup
 
 👀 My interests:
 - Reinforcement Learning Theory, Bandits
-- Statistical/Online Learning Theory
+- (Statistical/Online) Learning Theory
 - (High-dimensional) Statistics, Probability Theory
 - Deep Learning Theory, Optimization Theory
 - Algorithmic Fairness
 - Probabilistic Machine Learning (Bayesian inference, generative modeling, diffusion models)
+- Distributed Algorithms, Networks
 - GNN, Graphs
 - Applied Mathematics, Statistical Physics
-- Distributed Algorithms, Networks
 - ML/DL for Natural Sciences
 - ... and more! 
 
