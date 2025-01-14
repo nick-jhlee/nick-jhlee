@@ -1,17 +1,17 @@
 ### 👋 Hi, I’m @nick-jhlee (Junghyun "Nick" Lee)
 
-I'm currently a PhD candidate at the Graduate School of AI at KAIST, jointly supervised by [Se-Young Yun](https://fbsqkd.github.io/) and [Chulhee Yun](https://chulheeyun.github.io/).
+I'm currently a 3rd-year PhD student at the Graduate School of AI at KAIST, jointly supervised by [Se-Young Yun](https://fbsqkd.github.io/) and [Chulhee "Charlie" Yun](https://chulheeyun.github.io/).
 
 
 👀 My interests:
-- Reinforcement Learning Theory, Bandits
-- (Statistical/Online) Learning Theory
-- (High-dimensional) Statistics, Probability Theory
+- Bandits, Online Learning
+- Statistical Reinforcement Learning
+- Community Detection, Networks
+- Statistical Learning Theory, (High-dimensional) Statistics, Probability Theory
 - Deep Learning Theory, Optimization Theory
 - Algorithmic Fairness
+- Distributed Algorithms
 - Probabilistic Machine Learning (Bayesian inference, generative modeling, diffusion models)
-- Distributed Algorithms, Networks
-- GNN, Graphs
 - Applied Mathematics, Statistical Physics
 - ML/DL for Natural Sciences
 - ... and more! 
